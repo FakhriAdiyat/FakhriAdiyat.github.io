@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Helvetica", sans-serif;
     background-color: #f4f4f4;
     color: #333;
     line-height: 1.6;
@@ -89,4 +89,8 @@ footer {
     border-top: 1px solid #007BFF; /* Garis atas biru */
     font-size: 0.9em;
     color: #666;
+}
+
+.Paragraf1 {
+    text-align: justify;
 }
